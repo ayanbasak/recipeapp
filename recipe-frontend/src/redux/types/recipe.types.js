@@ -1,0 +1,6 @@
+export const SET_RECIPES = "SET_RECIPES";
+export const REMOVE_RECIPE = "REMOVE_RECIPE";
+export const REMOVE_INGREDIENT = "REMOVE_INGREDIENT";
+export const SET_LOADING = "SET_LOADING";
+
+ 
